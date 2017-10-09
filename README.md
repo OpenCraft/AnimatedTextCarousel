@@ -17,7 +17,7 @@ allprojects {
 2. Add the dependency
 ```
 dependencies {
-  compile 'com.github.gcherubini:AnimatedTextCarousel:-SNAPSHOT'
+  compile 'com.github.OpenCraft:AnimatedTextCarousel:-SNAPSHOT'
 }
 ```
 
